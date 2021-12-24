@@ -80,7 +80,6 @@ height: 30px;
 margin-left: 20px;
 }
 
-
 #achievementsID{
  padding-bottom: 10px;
 }
@@ -105,76 +104,41 @@ float: right;
 color: #ff7700;
 }
 
-
-
-
-body
+.environment_li
 {
-
-    font-family:monospace;
-    font-size: 25px;
-    line-height: 1.42857143;
-    color: cadetblue;
-    background-color: #c7b29a;
-    text-align: center;
-}
-#welcome {
-    font-family:monospace;
-    font-size: 25px;
-    line-height: 1.42857143;
-    color: cadetblue;
-    bottom: 0;
-    display: table;
-    width: 100%;
-    height: 100%;
-    z-index: 9;
-}
-#bio {
-    font-family: 'Cinzel Decorative', cursive;
-    padding: 50px;
-    text-align: center;
-}
-h1 {
-    font-size: 40px;
-    font-family: sans-serif;
-    font-weight: 300;
+  margin-top: 13px;
 }
 
-.line {
-    height: 6px;
-    background-color: #000;
-    width: 70px;
-    margin: 8px auto;
-}
-#contact iframe
+.environment_li h4
 {
-    width: 100%;
+    border-bottom: 1px solid white;
+    padding: 8px;
 }
-.contact_1 h3
+
+.environment_li img
 {
-    display: inline;
+  border-radius: 25px;
+  height: 250px;
 }
-.contact_1 a
+
+.environment_li p
 {
-    text-shadow: none;
+  margin-top:10px;
 }
 
-
-#videos iframe
+.header_entrepreneur
 {
-    width: 80%;
+  line-height: 2;
 }
 
-
-input
+.book
 {
-    background: grey;
+  cursor: pointer;
 }
 
-.links {
-    color: cadetblue;
-    padding-right: 25px;
-    padding-left: 33px;
-    font-family: monospace;
-    font-size: 20px;
-    display: inline;
+.book hr
+{
+  margin-bottom: 10px;
+}
+
+
